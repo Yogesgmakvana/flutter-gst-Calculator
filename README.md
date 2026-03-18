@@ -117,7 +117,17 @@ Feel free to fork this repository and contribute!
 ```bash
 git clone https://github.com/yogeshgmakvana/gst-calculator.git
 ```
+<h2>📸 App Screenshots</h2>
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+  <img src="screenshots/pic1.png" width="180" />
+  <img src="screenshots/pic2.png" width="180" />
+  <img src="screenshots/pic3.png" width="180" />
+  <img src="screenshots/pic4.png" width="180" />
+  <img src="screenshots/pic5.png" width="180" />
+
+</div>
 
 ## 👨‍💻 Developer
 
